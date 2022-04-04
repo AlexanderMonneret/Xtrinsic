@@ -4,8 +4,9 @@ A smart app that would adapt your environment to your needs. Using a wearable De
 
 ## MVP Components and features checklist:
 ### on The Watch Side:
-- [x]  WearOS3 Device for data gathering
+- [x]  finding a WearOS3 Device with the right sensors for data gathering (using Galaxy SmartWatch4)
 - [x] Syncing Data between watch and phone, done using Google Health API (no need for extra WearableApp).
+- [ ] Synch data directly with the Phone via bluetooth.
 ### On The Phone Side:
 - [x] Phone App with Graphs, Buttons and placeholders to present our Idea.
 - [x] Phone UI, done using Flutter.
