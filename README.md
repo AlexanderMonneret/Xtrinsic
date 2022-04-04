@@ -21,6 +21,12 @@ https://youtu.be/KYFi36nTe0g
 - [ ] add firebase database for storing data
 - [ ] fetch the data on the PHone from the Google Health API 
 
+## Build The App
+
+<p align = "center">
+<img src = "assets/icons/github_readme_photo.png">
+</p>
+
 ## Using the Mobile Application
 
 The Sign Up and Log in function does not work yet, so just click **Sign Up** to begin to use the application as it takes you directly to the onboarding screen explaining the aim of the app with how to use it.
